@@ -1,16 +1,3 @@
-## 起動方法
- - まず初めに”,”ボタンを教えてコードスペースを起動（緑の”code”ボタンでも起動可能） 
- - pnpm install
- - pnpm build
- - pnpm dev
- - 
-## 閉鎖方法
- - ターミナルで”ctrl+C”を押すとローカルサーバーが閉鎖される
- - 使い終わったら以下のショートカットキーでコマンドパレット（検索する場所っぽいやつ）を起動
- - "ctrl + shift + P"
- - そこに以下を入力してコードスペースを閉じる
- - Codespaces: Stop Codespace
- - 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/cpvalente/ontime/total)
 ![Docker Pulls](https://img.shields.io/docker/pulls/getontime/ontime)
