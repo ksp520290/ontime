@@ -1,3 +1,6 @@
+netstat -ano | findstr :3000
+taskkill /PID 12345 /F
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/cpvalente/ontime/total)
 ![Docker Pulls](https://img.shields.io/docker/pulls/getontime/ontime)
